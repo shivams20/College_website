@@ -1,0 +1,46 @@
+*{
+  margin:0;
+  padding: 0;
+}
+nav{
+  width: 100%;
+  padding: 30px;
+  background-color: rgb(60, 41, 41);
+}
+.link{
+  color: white;
+  font-family: arial;
+  
+  text-decoration: none;
+  margin-left: 100px;
+}
+.link:hover{
+  color: yellowgreen;
+}
+h1{
+  padding-top: 110px;
+  padding-left: 70px;
+  font-size: 50px;
+  color: rgb(116, 97, 97);
+ }
+ h2{
+  padding-top: 30px;
+  font-size: 30px;
+  color: brown;
+  padding-left: 70px;
+ }
+ h3{
+  font-size: 30px;
+  color: brown;
+  padding-left: 70px;
+ }
+.containe{
+ background-size: cover;
+ background-image: url("./college\ project.jpg");
+  padding-bottom: 500px;
+  padding-left: 0%;
+  
+}
+.sandeep{
+  padding-bottom: 20px;
+}
